@@ -16,7 +16,7 @@ Java okruženje (ako nije instalirano):
 ---
 ~~~
 sudo apt install openjdk-17-jdk
-~~
+~~~
 
 Kompilacija klijenta za slanje poruka:
 ---
